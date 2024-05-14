@@ -495,7 +495,7 @@
     }
 
     var sources = [
-        'bey vox.mp3', 'me, myself and i instrumental.mp3', 'snooze instrumental.mp3', 'sza vox.mp3',
+        'good 4 u instrumental.mp3', 'hayley vox.mp3', 'misery business instrumental.mp3', 'olivia vox.mp3',
        
     ];
 
